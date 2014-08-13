@@ -1,0 +1,5 @@
+To view the installed fonts on your system, simply click on the various tabs to view the fonts (Sorted alphabetically).
+
+The Help and About menu items bring up the Help and About dialog boxes respectively.
+
+-- Last Updated: 13/11/2007 --
